@@ -1,0 +1,33 @@
+iabd@iabd-virtualbox:~/Documentos/Practicas/rugby/consulta01$ cat allblacks_dataset.csv | python3 mapper.py | sort -k1 | python3 reduce.py
+Apia  1
+Auckland  31
+Bloemfontein  1
+Brisbane  7
+Buenos Aires  4
+Cape Town  3
+Chicago  2
+Christchurch  11
+Croke Park  1
+Dunedin  12
+Durban  3
+Hamilton  10
+Hong Kong  2
+Johannesburg  6
+La Plata  3
+Lansdowne Road  5
+London  1
+Lyon  2
+Marseille  2
+Melbourne  4
+Milan  1
+Millennium Stadium  12
+Murrayfield  7
+Napier  1
+Nelson  1
+New Plymouth  4
+Newcastle  1
+North Shore City  3
+Port Elizabeth  1
+Pretoria  2
+Rome  4
+Rustenberg  1
